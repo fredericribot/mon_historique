@@ -1,0 +1,207 @@
+306  clmystery-master/
+  307  cd clmystery-master/
+  308  ls
+  309  cd clmystery-master/
+  310  cd instructions/
+  311  vim instructions
+  312  cd/instructions
+  313  cd instructions
+  314  /instructions
+  315  cat instruction.txt
+  316  cat instruction.sh
+  317  less instructions
+  318  ~
+  319  pwd
+  320  cd..
+  321  cd ..
+  322  pwd
+  323  clear
+  324  code Interviews
+  325  cd Mystery
+  326  ls
+  327  Documents/
+  328  cd Documents/
+  329  ls
+  330  cd ..
+  331  ls
+  332  cd Bureau/
+  333  ls
+  334  cd clmystery-master/
+  335  ls
+  336  cd mystery/
+  337  ls
+  338  cd interviews/
+  339  ls
+  340  grep clue
+  341  ls
+  342  cd ..
+  343  grep interview
+  344  ls
+  345  cat crimescene 
+  346  grep clue
+  347  ls
+  348  grep --clue "crimescene" 
+  349  grep --l "crimescene" 
+  350  grep clue
+  351  code crimescene 
+  352  cat crimescene 
+  353  grep "clue"
+  354  ********
+  355  grep -iRl "clue" ./
+  356  grep -iRl "clue"
+  357  ls
+  358  cat crimescene 
+  359  grep -iRl "clue"
+  360  grep -iRl "clue" ./
+  361  grep "clue" *
+  362  grep "CLUE"
+  363  grep "CLUE" crimescene
+  364  grep "Annabel" people
+  365  grep "CLUE" people
+  366  grep "Annabel" interviews/
+  367  cd interviews/
+  368  grep "Annabel"
+  369  grep "Annabel" interview-
+  370  cd..
+  371  cd ..
+  372  grep "Hart Place" streets
+  373  cd streets
+  374  grep "Hart Place" streets
+  375  grep "Hart Place" 
+  376  Hart Place
+  377  cd ..
+  378  grep "Annabel" vehicles 
+  379  head "Annabel" people
+  380  head "Alicia Fuentes" streets
+  381  cd streets
+  382  head "Alicia Fuentes" 
+  383  grep "Annabel"
+  384  grep "Alicia" streets
+  385  cd ..
+  386  head "6'" vehicles 
+  387  cd hint4
+  388  cat hint4
+  389  ll
+  390  ll streets/
+  391  cd ..
+  392  ll
+  393  cat hint4
+  394  grep mystery/
+  395  cat mystery/
+  396  ls
+  397  cat hint5
+  398  ls
+  399  cd mystery/
+  400  ls
+  401  cd streets
+  402  ls
+  403  cd ..
+  404  cat Mattapan_street
+  405  cd streets
+  406  cat Mattapan_Street 
+  407  head -n 173 streets/Mattapan_Street | tail -n 1
+  408  cd ..
+  409  head -n 173 streets/Mattapan_Street | tail -n 1
+  410  cd mystery/
+  411  head -n 173 streets/Mattapan_Street | tail -n 1
+  412  ls
+  413  cd interviews/
+  414  grep #9437737
+  415  grep "#9437737" interview-
+  416  cd ..
+  417  grep "#9437737" interview-
+  418  head "#9437737" interview-
+  419  cd interviews/
+  420  cat "#9437737" interview-
+  421  cat 9437737 interview-
+  422  cd ..
+  423  cat 9437737 interview-
+  424  cat #9437737 interview-
+  425  cd interviews/
+  426  cat interview-9437737
+  427  cd ..
+  428  l
+  429  ls
+  430  cat hint6
+  431  cd mystery/
+  432  ls
+  433  grep "honda" vehicles 
+  434  cat vehicles 
+  435  grep "honda|blue|L337" vehicles 
+  436  grep "honda|blue" 
+  437  cd vehicles
+  438  cat vehicles 
+  439  grep "honda|blue|L337"
+  440  grep "honda" vehicles 
+  441  grep "Honda|Blue|L337" vehicles 
+  442  grep "Honda|Blue" vehicles 
+  443  grep "Honda" vehicles 
+  444  grep "Honda"|"Blue"|"L337" vehicles 
+  445  cat vehicles 
+  446  grep "Honda"|"Blue"|"L337" vehicles 
+  447  egrep "Honda"|"Blue"|"L337" vehicles 
+  448  cat vehicles 
+  449  grep -e Honda
+  450  grep "Honda"|"Blue"|"L337 *.vehicles
+  451  ls
+  452  grep "Jacqui Maher" people 
+  453  ls
+  454  cd memberships/
+  455  grep "Jacqui Maher" 
+  456  cat "Jacqui Maher" 
+  457  grep "Jacqui Maher" 
+  458  cd ..
+  459  ls
+  460  cd ..
+  461  ls
+  462  cat hint7
+  463  ls
+  464  ls mystery/
+  465  grep -A 5 "L337" mystery/vehicles
+  466  grep -A 5 "Honda"|"L337" mystery/vehicles
+  467  cd mystery/
+  468  ls
+  469  cd interviews/
+  470  cat "Annabel" interview-
+  471  ls
+  472  cd ..
+  473  ls
+  474  grep "Joe Germuska" people
+  475  ls
+  476  cd ..
+  477  ls
+  478  cd mystery/
+  479  ls
+  480  cd memberships/
+  481  ls
+  482  grep "Jeremy Bowers" AAA 
+  483  grep "Jeremy Bowers" Delta_SkyMiles 
+  484  grep "Jeremy Bowers" Museum_of_Bash_History 
+  485  grep "Jeremy Bowers" Rotary_Club 
+  486  grep "Jeremy Bowers" Terminal_City_Library 
+  487  grep "Jeremy Bowers" Delta_SkyMiles | grep "AAA" Delta_SkyMiles 
+  488  grep "Jeremy Bowers" Museum_of_Bash_History | grep "AAA" Museum_of_Bash_History 
+  489  cd ..
+  490  ls
+  491  cat hint8
+  492  cd mystery/
+  493  cear
+  494  clear
+  495  echo Jeremy Bowers
+  496  cd ~
+  497  ls
+  498  cd WCS
+  499  ls
+  500  cd Work/
+  501  ls
+  502  touch mon_historique.log
+  503  ls
+  504  cat mon_historique.log 
+  505  ls
+  506  cat mon_historique.log 
+  507  cd ..
+  508  ls
+  509  cd Work/
+  510  ls
+  511  clear
+  512  echo "Jeremy Bowers"
